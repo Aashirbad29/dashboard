@@ -18,7 +18,7 @@ export default function Topbar() {
           <Icon icon="mdi:chevron-down" className="ml-2 text-[18px] opacity-70" />
         </Button>
 
-        {/* Center Search (SMALL like design) */}
+        {/* Center Search */}
         <div className="flex flex-1 items-center justify-center">
           <div className="relative w-115 max-w-115">
             {/* Search icon */}
